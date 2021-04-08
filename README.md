@@ -1,8 +1,9 @@
 
 
-<h2> Hi, I'm Laetitia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffredangeetdemon.skyrock.com%2Ftags%2FkY5GtT9VvW7-RETOUR-D.html&psig=AOvVaw08x2znCQJXecnhZ-hXytUF&ust=1617991643915000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDVmt-e7-8CFQAAAAAdAAAAABAJ" width="230">
+<h2> Hello, I'm Laetitia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media2.giphy.com/media/UkOWwj9DnP5rCb5djM/200w.webp?cid=ecf05e47810yuidc5mge0see8kvj8anfk2tc8t0e8g7cornj&rid=200w.webp" width="230">
 <p><em>Junior Web Developer</em></br>
+Living in Marseille (France)</br>
 </p>
 
 [![Linkedin: laetitiausai](https://img.shields.io/badge/-laetitiausai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laetitiausai/)](https://www.linkedin.com/in/laetitiausai/)
@@ -25,3 +26,5 @@ const laeti = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
