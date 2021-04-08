@@ -6,7 +6,7 @@
 Living in Marseille (France)</br>
 </p>
 
-[![Linkedin: laetitiausai](https://img.shields.io/badge/-laetitiausai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laetitia-usai//)](https://www.linkedin.com/in/laetitiausai/)
+[![Linkedin: laetitiausai](https://img.shields.io/badge/-laetitiausai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laetitia-usai/)](https://www.linkedin.com/in/laetitiausai/)
 [![GitHub LaetitiaU](https://img.shields.io/github/followers/laetitia?label=follow&style=social)](https://github.com/LaetitiaU)
 
 
