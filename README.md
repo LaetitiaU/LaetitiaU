@@ -9,6 +9,8 @@ Living in Marseille (France)</br>
 [![Linkedin: laetitiausai](https://img.shields.io/badge/-laetitiausai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laetitia-usai/)](https://www.linkedin.com/in/laetitiausai/)
 [![GitHub LaetitiaU](https://img.shields.io/github/followers/laetitia?label=follow&style=social)](https://github.com/LaetitiaU)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
