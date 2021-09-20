@@ -16,12 +16,11 @@ Living in Marseille (France)</br>
 const laeti = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Redux, Node, Laravel, WordPress],
+  tools: [React, Laravel, WordPress],
   techCommunities: {
                         coorganizer: "JSLover",
                         speaker: "Frenchy",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and scss"
 }
 ```
 
